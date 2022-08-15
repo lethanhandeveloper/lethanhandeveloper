@@ -1,6 +1,6 @@
-<p align="center">
+<b align="center">
   Hi, I'm An 👋 I'm a 🚀 developer 🚀 I ❤️ Happy Hardcore ❤️
-</p>
+</b>
 
 <b>Languages</b>
 

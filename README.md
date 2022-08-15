@@ -1,4 +1,4 @@
-<b align="center" font-size: 100px>
+<b align="center" font-size: 100>
   # Hi I'm An <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 </b>
 

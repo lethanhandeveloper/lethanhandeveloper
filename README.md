@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm An 👋 I'm a 🚀 developer 🚀 I ❤️ Happy Hardcore ❤️">
+  Hi, I'm An 👋 I'm a 🚀 developer 🚀 I ❤️ Happy Hardcore ❤️
 </p>
 
 <b>Languages</b>

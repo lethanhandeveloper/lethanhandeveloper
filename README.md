@@ -4,7 +4,7 @@
 
 ![](https://user-images.githubusercontent.com/65018347/184634639-6ebba1a3-f241-40a9-adda-65c8e8cfde11.gif)
 
-<b>Languages</b>
+<b style="font-family:'Sans-serif'">Languages</b>
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)

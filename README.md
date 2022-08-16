@@ -1,5 +1,5 @@
 
-  # Hi I'm An <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+  # Hi!I'm An <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 
 ![](https://user-images.githubusercontent.com/65018347/184634639-6ebba1a3-f241-40a9-adda-65c8e8cfde11.gif)

@@ -22,25 +22,6 @@
 
 <b>Mobile Frameworks</b></br>
 ![React-Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-<button onclick="myFunction()">Toggle dark mode</button>
 
 
-<style>
-body {
-  padding: 25px;
-  background-color: white;
-  color: black;
-  font-size: 25px;
-}
 
-.dark-mode {
-  background-color: black;
-  color: white;
-}
-</style>
-<script>
-function myFunction() {
-   var element = document.body;
-   element.classList.toggle("dark-mode");
-}
-</script>

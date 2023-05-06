@@ -15,10 +15,9 @@
 <b>Database<b></br>
 ![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB]( 	https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)</br>
-![MongoDB]( 	https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)</br>
-<b>Web Frameworks</b></br>
+
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)</br>
-![ExpressJS]([https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge))</br>
+![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)</br>
 
 <b>Mobile Frameworks</b></br>
 ![React-Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)

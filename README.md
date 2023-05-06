@@ -14,7 +14,7 @@
 
 <b>Database<b></br>
 ![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB]([https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Ft7kml%2Fbtrh5ZYODMJ%2FCQ9gcLekjvYb8O0lXnfTwK%2Fimg.png))
+
 
 <b>Web Frameworks</b></br>
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)</br>
